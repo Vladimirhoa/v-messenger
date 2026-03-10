@@ -1,0 +1,15 @@
+
+/build/
+/cmake-build-debug/
+/cmake-build-release/
+bin/
+obj/
+
+
+.idea/
+*.iws
+*.iml
+*.ipr
+
+
+.DS_Store
